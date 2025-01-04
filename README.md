@@ -36,7 +36,7 @@ To redo the experiments, run this:
 
     python ./code/experiment_transformer_optimezers.py
 
-#### Grokking with \(K\geq2\)
+#### Grokking with K >= 2
 
 We did two experiments:
 - \(p=17,\alpha=0.3,K=2,3,4\), aimed at showing the different  complexity of the problem.
